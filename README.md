@@ -6,7 +6,6 @@ If you've found yourself here, you are likely looking for one of my projects.
 ## ReqTrackManager
 ReqTrackManager is an open-source engineering requirements management system (ERMS)
 
-| Page | Link |
-| -    | -    |
-| Repo | https://github.com/ballardr/reqtrackmanager |
-| Docs | https://ballardr.github.io/reqtrackmanager/ |
+Links:
+[Repository](https://github.com/ballardr/reqtrackmanager)
+[Documentation](https://ballardr.github.io/reqtrackmanager/)
